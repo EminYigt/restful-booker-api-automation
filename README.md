@@ -104,6 +104,7 @@ Restful Booker is a public test API.
 Test data is created dynamically during test execution.
 Authentication token is used for protected endpoints such as update and delete operations.
 POJO classes are used for serialization and deserialization.
+
 Author
 
 Yiğit Taşdelen
